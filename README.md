@@ -11,5 +11,5 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 >> * [Ultrasonic Sensors](https://robu.in/product/hc-sr04-ultrasonic-range-finder/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfhdPhclsBEp8riz5Os2FtJFf30t5UDnhAv21UPSZosoca0b1NaYAUBoCkY4QAvD_BwE).<br/>
 >> * [Jumper Wires](https://robu.in/product/10cm-male-male-breadboard-jumper-dupont-2-54mm-1p-1p-cable-40-pcs/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfgbsVQTj2kGlzIAA7qb7-5LkZTz87cXwq5MkohiqGgTeiT6JLM-iNBoCqy0QAvD_BwE).<br/>
 - - - -
-## Schematic Diagram.
-![](arduino-schematic.png)
+> ## Schematic Diagram.
+>> ![](arduino-schematic.png)
