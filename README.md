@@ -14,3 +14,4 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 - - - -
 > ## Schematic Diagram.
 >> ![](arduino-schematic.png)
+- - - -
