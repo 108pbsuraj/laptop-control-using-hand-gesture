@@ -7,7 +7,7 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 Install [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) and [PySerial](https://pypi.org/project/pyserial/) in Python.
 [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 ## Hardware Required.
-Arduino UNO.
-Ultrasonic Sensor(HC-SR04).
+Arduino UNO.<br/>
+Ultrasonic Sensor(HC-SR04).<br />
 Connecting wires.
 ![](ardunosetuponlapto.jpeg)
