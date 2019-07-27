@@ -7,12 +7,9 @@
 > ## Software Required.
 >>* Install [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) and [PySerial](https://pypi.org/project/pyserial/) in Python.<br />
 >>* Install [Arduino IDE](https://www.arduino.cc/en/Main/Software).<br />
-- - - -
 > ## Hardware Required.
 >> * [Arduino UNO](https://store.arduino.cc/usa/arduino-uno-rev3).<br/>
 >> * [Ultrasonic Sensors](https://robu.in/product/hc-sr04-ultrasonic-range-finder/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfhdPhclsBEp8riz5Os2FtJFf30t5UDnhAv21UPSZosoca0b1NaYAUBoCkY4QAvD_BwE).<br/>
 >> * [Jumper Wires](https://robu.in/product/10cm-male-male-breadboard-jumper-dupont-2-54mm-1p-1p-cable-40-pcs/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfgbsVQTj2kGlzIAA7qb7-5LkZTz87cXwq5MkohiqGgTeiT6JLM-iNBoCqy0QAvD_BwE).<br/>
-- - - -
 > ## Schematic Diagram.
 >> ![](arduino-schematic.png)
-- - - -
