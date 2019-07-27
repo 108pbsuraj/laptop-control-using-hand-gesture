@@ -4,7 +4,7 @@ You might have seen Hand Gesture Controlled Robots, where the motion of a robot 
 Instead of using a keyboard, mouse or joystick, we can use our hand gestures to control certain functions of a computer like play/pause a video, move left/right in a photo slide show, scroll up/down.
 ​In this project, we have implemented a simple Arduino based hand gesture control where you can control few functions of your web browser like switching between tabs, scrolling up and down in web pages, shift between tasks (applications), play or pause a video and increase or decrease the volume (in VLC Player) with the help of hand gestures.
 > ## Software Required.
->>*Install [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) and [PySerial](https://pypi.org/project/pyserial/) in Python.<br />
+>>* Install [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) and [PySerial](https://pypi.org/project/pyserial/) in Python.<br />
 >>*Install [Arduino IDE](https://www.arduino.cc/en/Main/Software).<br />
 > ## Hardware Required.
 >> *[Arduino UNO](https://store.arduino.cc/usa/arduino-uno-rev3).<br/>
