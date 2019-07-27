@@ -6,6 +6,8 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 > ## Software Required.
 >>Install [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) and [PySerial](https://pypi.org/project/pyserial/) in Python.<br />
 >>Install [Arduino IDE](https://www.arduino.cc/en/Main/Software).<br />
+<br />
+
 > ## Hardware Required.
 >>Arduino UNO.<br/>
 >>Ultrasonic Sensor(HC-SR04).<br />
