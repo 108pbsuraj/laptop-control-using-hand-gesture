@@ -17,3 +17,4 @@
 >> ![](arduino-schematic.png)
 > ## Hardware setup on Laptop.
 >> ![](ardunosetuponlapto.jpeg)
+> - - - -
