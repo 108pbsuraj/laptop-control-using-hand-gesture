@@ -19,3 +19,4 @@
 >> ![](ardunosetuponlapto.jpeg)
 > ## How to use code?
 >> - [x] Save Arduino code.
+>> :two: Save python code.
