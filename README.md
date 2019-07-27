@@ -18,5 +18,5 @@
 > ## Hardware setup on Laptop.
 >> ![](ardunosetuponlapto.jpeg)
 > ## How to use code?
->> - [x] Save Arduino code.
+>> - [x] Save Arduino code.<br/>
 >> :two: Save python code.
