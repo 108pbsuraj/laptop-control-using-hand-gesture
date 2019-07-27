@@ -8,7 +8,7 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 >>Install [Arduino IDE](https://www.arduino.cc/en/Main/Software).<br />
 <br />
 > ## Hardware Required.
->> [Arduino UNO](https://store.arduino.cc/usa/arduino-uno-rev3/) .<br/>
+>>Arduino UNO .<br/>
 >>[Ultrasonic Sensor(HC-SR04)](https://robu.in/product/hc-sr04-ultrasonic-range-finder/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtftI-iXZ6ZIJZu8vxa_yfenCD1WthfQ_lEHbdQ6vF1Num9bJWtG9CNBoCQo0QAvD_BwE).<br />
 >>[Connecting wires](https://robu.in/product/10cm-male-male-breadboard-jumper-dupont-2-54mm-1p-1p-cable-40-pcs/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfgbsVQTj2kGlzIAA7qb7-5LkZTz87cXwq5MkohiqGgTeiT6JLM-iNBoCqy0QAvD_BwE).
 
