@@ -9,4 +9,4 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 ## Hardware Required.
 -Arduino UNO.
 -Ultrasonic Sensor(HC-SR04).
-![]
+![](ardunosetuponlapto.jpeg)
