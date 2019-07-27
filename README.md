@@ -8,4 +8,4 @@ Instead of using a keyboard, mouse or joystick, we can use our hand gestures to 
 >>Install [Arduino IDE](https://www.arduino.cc/en/Main/Software).<br />
 <br />
 > ## Hardware Required.
->> [Arduino UNO](https://store.arduino.cc/usa/arduino-uno-rev3)
+>> Arduino UNO
