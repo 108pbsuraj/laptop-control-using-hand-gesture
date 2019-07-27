@@ -15,3 +15,5 @@
 >> * [Jumper Wires](https://robu.in/product/10cm-male-male-breadboard-jumper-dupont-2-54mm-1p-1p-cable-40-pcs/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfgbsVQTj2kGlzIAA7qb7-5LkZTz87cXwq5MkohiqGgTeiT6JLM-iNBoCqy0QAvD_BwE).<br/>
 > ## Schematic Diagram.
 >> ![](arduino-schematic.png)
+> ## Hardware setup on Laptop.
+>> ![](ardunosetuponlapto.jpeg)
