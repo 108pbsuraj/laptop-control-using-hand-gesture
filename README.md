@@ -17,4 +17,4 @@
 >> ![](arduino-schematic.png)
 > ## Hardware setup on Laptop.
 >> ![](ardunosetuponlapto.jpeg)
-> How to use code?
+> ## How to use code?
