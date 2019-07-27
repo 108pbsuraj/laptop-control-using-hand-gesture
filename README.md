@@ -18,5 +18,5 @@
 > ## Hardware setup on Laptop.
 >> ![](ardunosetuponlapto.jpeg)
 > ## How to use code?
->> - [x] Save Arduino code.<br/>
->> :two: Save python code.
+>> - [x] Save Arduino code and export it in Arduino UNO.<br/>
+>> - [x] Save python code with .py and run it.
