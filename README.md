@@ -17,7 +17,6 @@
 >> ![](arduino-schematic.png)
 > ## Hardware setup on Laptop.
 >> ![](ardunosetuponlapto.jpeg)
-> ## How to use code?
->> * For Media Player.<br/>
->>     * Save Arduino code and export it in Arduino UNO.<br/>
+> ## Contributors
+>> * [Suraj Kumar](https://github.com/108pbsura)
 
