@@ -18,5 +18,8 @@
 > ## Hardware setup on Laptop.
 >> ![](ardunosetuponlapto.jpeg)
 > ## Contributors
->> * [Suraj Kumar](https://github.com/108pbsura)
-
+>> * [Suraj Kumar](https://github.com/108pbsuraj)
+>> * [Shivraj Dhonde](https://github.com/ShivrajDhonde)
+>> * [Jatin Pardhi](https://github.com/jatinpardhi)
+>> * [Rishabh Runwal](https://github.com/rishabh-runwal)
+>> * [Aadesh Varude](https://github.com/AadeshVarude)
